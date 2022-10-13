@@ -1,9 +1,15 @@
 # Hey there, you made it to the Sunhat GitHub page 🎉
 
 ## What we do
-We are a German SaaS Start-up in stealth mode that enables companies to streamline sustainability compliance in order to build trust and drive business in shorter time. Sunhat helps teams to answer sustainability specific requests faster and more efficiently (external requests from customers & investors + internal requests from other departments).
+[Sunhat](https://www.getsunhat.com) is an automation-focused software company founded to rethink sustainability compliance from the ground up. At Sunhat, we strongly believe in the vision that sustainability should be a base level for all products and services that everyone can rely on. This involves not only complying with outside sustainability requirements, but also taking the verification of underlying data to a new level.
+
+That’s why our team of software, sustainability and compliance experts has created an all-in-one platform to help companies automate and scale their sustainability programs, built to meet both outside requirements and each company’s very own sustainability standards. 
+
+We are proud to support mission-driven companies all over the world in building continuous sustainability programs and taking sustainability compliance to the next level!
 
 ## Why you should work with us
+
+> Are you looking to get in on the ground floor of our success story? Then check out our open positions: [Sunhat](https://sunhat.notion.site/Jobs-Sunhat-6c3eb57536d7418d8ebe89d6a24a2238)
 
 We are a highly motivated, experienced and diverse team at the very start of our journey to build something meaningful. We are backed by experienced VCs and entrepreneurs from the tech and sustainability space. This is your chance to join us and get in on the ground floor of this journey!
 
