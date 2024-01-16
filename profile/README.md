@@ -5,7 +5,7 @@
 ## 🪐 What we do
 [Sunhat](https://www.getsunhat.com/?utm_source=github.com&utm_medium=referral) is an automation-focused software company founded to rethink sustainability compliance from the ground up. At Sunhat, we strongly believe in the vision that sustainability should be a base level for all products and services that everyone can rely on. This involves not only complying with outside sustainability requirements, but also taking the verification of underlying data to a new level.
 
-That’s why our team of software, sustainability and compliance experts has created an all-in-one platform to help companies automate and scale their sustainability programs, built to meet both outside requirements and each company’s very own sustainability standards. 
+That’s why our team of software, sustainability and compliance experts has created an all-in-one platform to help companies automate and scale their sustainability programs, built to meet both outside requirements and each company’s very own sustainability standards. Our software solution streamlines the entire process, from mapping requirements to preparing and maintaining the requested information, empowering sustainability teams to achieve maximum impact with their work.
 
 We are proud to support mission-driven companies all over the world in building continuous sustainability programs and taking sustainability compliance to the next level!
 
