@@ -1,6 +1,9 @@
 # Hey there, you made it to the Sunhat GitHub page 🎉
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sunhat/sunhat-app)
+<div>
+  <img src="https://api.thegreenwebfoundation.org/greencheckimage/sunhat.app?nocache=true" height="64px" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
+</div>
 
 ## 🪐 What we do
 [Sunhat](https://www.getsunhat.com/?utm_source=github.com&utm_medium=referral) is an automation-focused software company founded to rethink sustainability compliance from the ground up. At Sunhat, we strongly believe in the vision that sustainability should be a base level for all products and services that everyone can rely on. This involves not only complying with outside sustainability requirements, but also taking the verification of underlying data to a new level.
