@@ -2,7 +2,7 @@
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sunhat/sunhat-app)
 <div>
-  <img src="https://app.greenweb.org/api/v3/greencheckimage/sunhat.app?nocache=true" height="64px" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
+  <img src="https://app.greenweb.org/api/v3/greencheckimage/sunhat.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="64px">
 </div>
 
 ## 🪐 What we do
