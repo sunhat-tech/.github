@@ -12,6 +12,10 @@ That’s why our team of software, sustainability and compliance experts has cre
 
 We are proud to support mission-driven companies all over the world in building continuous sustainability programs and taking sustainability compliance to the next level!
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/417c607a-a51c-4a5b-8100-a141326803c1" alt="Sunhat team" height="500px">
+</div>
+
 ## 🙌 Why you should work with us
 
 > Are you looking to get in on the ground floor of our success story? Then check out our open positions: [Sunhat](https://sunhat.notion.site/Jobs-Sunhat-6c3eb57536d7418d8ebe89d6a24a2238)
